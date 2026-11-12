@@ -5,8 +5,13 @@
 **Desafio:** CitizenTech — tecnologia que melhora a vida das pessoas
 
 ## Integrantes
-- **Nome completo:** Arthur Queiroz Nascimento
-- **RM:** 555205
+Arthur Queiroz Nascimento
+Felipe Gasparetto Ohara Sato
+Gabriel de lima
+RM555205
+RM554315
+RM99659
+
 
 > Confirme nome e RM antes da entrega. Se houver outros integrantes, acrescente nome completo e RM de cada um (limite de 3 integrantes).
 
